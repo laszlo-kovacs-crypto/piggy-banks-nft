@@ -20,9 +20,14 @@
   },
   "homepage": "https://github.com/laszlo-kovacs-crypto/piggy-banks-nft#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.4",
+    "ethers": "^5.4.4",
     "hardhat": "^2.5.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.1.0-solc-0.7"
+    "@alch/alchemy-web3": "^1.1.2",
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^10.0.0"
   }
 }
