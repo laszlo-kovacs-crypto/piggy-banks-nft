@@ -1,0 +1,25 @@
+{
+  "name": "piggy-banks",
+  "version": "1.0.0",
+  "description": "piggy banks nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laszlo-kovacs-crypto/piggy-banks-nft.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "laszlo-kovacs-crypto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laszlo-kovacs-crypto/piggy-banks-nft/issues"
+  },
+  "homepage": "https://github.com/laszlo-kovacs-crypto/piggy-banks-nft#readme",
+  "devDependencies": {
+    "hardhat": "^2.5.0"
+  }
+}
