@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/laszlo-kovacs-crypto/piggy-banks-nft#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.4",
     "hardhat": "^2.5.0"
   },
   "dependencies": {
